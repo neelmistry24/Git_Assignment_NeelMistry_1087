@@ -1,3 +1,7 @@
 Hello Git 
 This is Local File
+<<<<<<< HEAD
 change from local pc
+=======
+change from github
+>>>>>>> 5517f161a9e0389ac2a426aa325e45b3a21dd8a4
